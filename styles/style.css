@@ -1,0 +1,51 @@
+@media (max-width:800px){
+    .flex-container{
+        flex-direction: column;
+    }
+}         
+
+.container{
+    display: flex;
+    background-color:#9a8c98;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.container div{
+    margin: 5px;
+    background-color:#22223b;
+}
+
+body{
+    background-color: #4a4e69;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+    font-size: 17px;
+    padding: 2px;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+    padding: 2px;
+}
+
+.shadow{
+    text-shadow: 2px 2px 8px #3D3D3D;
+}
+
+#bulletpoint{
+  
+    list-style-type: circle;
+}
+.markup{
+    font-weight: bold;
+    text-decoration: underline;
+}
