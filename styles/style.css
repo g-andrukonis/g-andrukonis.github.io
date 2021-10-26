@@ -18,7 +18,7 @@
 }*/
 
 body{
-    background-color: #4a4e69;
+    background-color: #618BD9;
     color: white;
     font-family: Verdana;
     text-align: center;
@@ -37,9 +37,9 @@ ol{
     padding: 2px;
 }
 
-.shadow{
+/*.shadow{
     text-shadow: 2px 2px 8px #3D3D3D;
-}
+}*/
 
 #bulletpoint{
   
@@ -55,5 +55,5 @@ ol{
     justify-content:space-between;
 }
 .box-1{
-    background-color:#e6d7f5;
+    background-color:#33A4E4;
 }
