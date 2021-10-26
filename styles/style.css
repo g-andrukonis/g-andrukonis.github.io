@@ -4,7 +4,7 @@
     }
 }         
 
-.container{
+.container-flex{
     display: flex;
     background-color:#9a8c98;
     justify-content: center;
@@ -12,7 +12,7 @@
     flex-wrap: wrap;
 }
 
-.container div{
+.container-flex div{
     margin: 5px;
     background-color:#22223b;
 }
