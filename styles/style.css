@@ -1,10 +1,10 @@
-@media (max-width:800px){
+/*@media (max-width:800px){
     .flex-container{
         flex-direction: column;
     }
 }         
 
-/*.container{
+.container{
     display: flex;
     background-color:#9a8c98;
     justify-content: center;
